@@ -11,3 +11,6 @@ This is much easier since the board is ready for use after installing the
 codes and packages.
 
 ## Example of use
+An use example is at example folder of this repository. It uses `ampy` to
+copy files to board and "install" packages without need of connecting the
+board with internet.
